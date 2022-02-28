@@ -1,7 +1,8 @@
 # @eltacitos/tiny-vue-toggle
-[![npm (scoped)](https://img.shields.io/npm/v/@eltacitos/tiny-vue-components?style=for-the-badge)](￼)
-[![NPM Downloads](https://img.shields.io/npm/dw/@eltacitos/tiny-vue-components?style=for-the-badge)](￼)
-[![NPM Downloads](https://img.shields.io/github/stars/ElTacitos/tiny-vue-components?style=for-the-badge)](￼)
+[![npm (scoped)](https://img.shields.io/npm/v/@eltacitos/tiny-vue-components?style=for-the-badge)](https://www.npmjs.com/package/@eltacitos/tiny-vue-components)
+[![NPM Downloads](https://img.shields.io/npm/dw/@eltacitos/tiny-vue-components?style=for-the-badge)](https://www.npmjs.com/package/@eltacitos/tiny-vue-components)
+[![NPM Downloads](https://img.shields.io/github/stars/ElTacitos/tiny-vue-components?style=for-the-badge)](https://github.com/ElTacitos/tiny-vue-components)
+
 
 Just a bundles of tiny Vue 3 components with TypeScript.
 
