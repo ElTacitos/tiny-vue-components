@@ -9,9 +9,10 @@ Currently, containing only a Toggle Switch.
 
 ## Install
 ```
-$ npm i @eltacitos/tiny-vue-toggle
+$ npm i @eltacitos/tiny-vue-components
 ```
 
+## Toggle Switch
 ### Properties
 | Name | Type | Default | Description |  
 | --- | --- | --- | --- |
